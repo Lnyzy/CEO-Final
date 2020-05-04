@@ -1,0 +1,4 @@
+Yearly Salary = 37440
+Raise = 0.05
+PTO = 3
+

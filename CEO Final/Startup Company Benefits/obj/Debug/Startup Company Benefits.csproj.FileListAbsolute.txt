@@ -1,0 +1,10 @@
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\bin\Debug\Startup Company Benefits.exe.config
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\bin\Debug\Startup Company Benefits.exe
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\bin\Debug\Startup Company Benefits.pdb
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\obj\Debug\Startup Company Benefits.csprojAssemblyReference.cache
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\obj\Debug\Startup_Company_Benefits.Menu.resources
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\obj\Debug\Startup_Company_Benefits.Properties.Resources.resources
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\obj\Debug\Startup Company Benefits.csproj.GenerateResource.cache
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\obj\Debug\Startup Company Benefits.csproj.CoreCompileInputs.cache
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\obj\Debug\Startup Company Benefits.exe
+C:\Users\asant\source\repos\Startup Company Benefits\Startup Company Benefits\obj\Debug\Startup Company Benefits.pdb
